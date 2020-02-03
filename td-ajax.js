@@ -4,6 +4,8 @@ TD-AJAX Version 1.0
 
 Other required files:
   1. jQuery (tested with version: v3.3.1)
+  
+Download url: https://www.github.com/TimDer/TD-AJAX
 
 */
 

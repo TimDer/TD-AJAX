@@ -8,7 +8,7 @@ Other required files:
 var successMessage  = "";
 var errorMessage    = "";
 var allowResponse   = true;
-var BASE_URL        = $("#build_cms_base_url").attr("base_url");
+var BASE_URL        = "";
 
 // toggle checked on checkboxes
 $("form.td-ajax, body").find("[type='checkbox']").each(function () {
